@@ -1,0 +1,332 @@
+[
+  {
+    "id": "hook",
+    "scene": 0,
+    "start": 0.55,
+    "end": 5.6913,
+    "english": "Why can a metal part fail even when no single load is large enough to break it?",
+    "chinese": "為什麼金屬零件會斷裂，即使每一次載重都不足以單獨把它弄斷？",
+    "caption": "Why can a metal part fail even when no single load is large enough\nto break it?",
+    "speed": 0.86
+  },
+  {
+    "id": "define",
+    "scene": 0,
+    "start": 7.3673,
+    "end": 14.45,
+    "english": "Fatigue is damage from repeated loading. It can occur when nominal stress stays below yield strength.",
+    "chinese": "疲勞是反覆載重造成的損傷。即使名義應力低於材料的降伏強度，也可能發生破壞。",
+    "caption": "Fatigue is damage from repeated loading. It can occur when nominal\nstress stays below yield strength.",
+    "speed": 0.86
+  },
+  {
+    "id": "photo",
+    "scene": 1,
+    "start": 15.55,
+    "end": 18.814,
+    "english": "This is a real fractured bolt from published research.",
+    "chinese": "這是一張已發表研究中的真實斷裂螺栓照片。",
+    "caption": "This is a real fractured bolt from published research.",
+    "speed": 0.86
+  },
+  {
+    "id": "root",
+    "scene": 1,
+    "start": 19.7309,
+    "end": 23.4216,
+    "english": "The paper notes that fatigue commonly occurs at thread roots.",
+    "chinese": "論文指出，螺栓的疲勞破壞常發生在螺紋根部。",
+    "caption": "The paper notes that fatigue commonly occurs at thread roots.",
+    "speed": 0.86
+  },
+  {
+    "id": "unmapped",
+    "scene": 1,
+    "start": 24.3384,
+    "end": 26.8344,
+    "english": "The exact origin is not mapped here.",
+    "chinese": "這張照片並未標示確切的裂紋起始位置。",
+    "caption": "The exact origin is not mapped here.",
+    "speed": 0.86
+  },
+  {
+    "id": "surfaces",
+    "scene": 1,
+    "start": 27.7513,
+    "end": 34.45,
+    "english": "Fatigue surfaces may show smoother growth regions and rougher final fracture; appearances vary.",
+    "chinese": "疲勞斷面可能有較平滑的成長區和較粗糙的最終斷裂區；實際外觀並不完全相同。",
+    "caption": "Fatigue surfaces may show smoother growth regions and rougher final\nfracture; appearances vary.",
+    "speed": 0.86
+  },
+  {
+    "id": "schematic",
+    "scene": 2,
+    "start": 35.55,
+    "end": 37.7473,
+    "english": "Now follow one schematic specimen.",
+    "chinese": "現在我們用同一個示意試件，觀察整個過程。",
+    "caption": "Now follow one schematic specimen.",
+    "speed": 0.86
+  },
+  {
+    "id": "initiation",
+    "scene": 2,
+    "start": 38.5652,
+    "end": 42.5332,
+    "english": "A scratch concentrates stress locally, and a small crack begins.",
+    "chinese": "刮痕造成局部應力集中，微小裂紋因而起始。",
+    "caption": "A scratch concentrates stress locally, and a small crack begins.",
+    "speed": 0.86
+  },
+  {
+    "id": "tension",
+    "scene": 2,
+    "start": 43.3511,
+    "end": 45.6124,
+    "english": "Repeated tension opens the crack.",
+    "chinese": "反覆拉伸使裂紋張開。",
+    "caption": "Repeated tension opens the crack.",
+    "speed": 0.86
+  },
+  {
+    "id": "growth",
+    "scene": 2,
+    "start": 46.4303,
+    "end": 51.9983,
+    "english": "As cycle count N increases, crack length a grows, leaving less intact material.",
+    "chinese": "隨著循環次數 N 增加，裂紋長度 a 增長，剩餘完整的材料逐漸減少。",
+    "caption": "As cycle count N increases, crack length a grows, leaving less\nintact material.",
+    "speed": 0.86
+  },
+  {
+    "id": "hidden",
+    "scene": 2,
+    "start": 52.8161,
+    "end": 58.1281,
+    "english": "The gradual growth may be hard to see. The sudden break is only the final stage.",
+    "chinese": "逐漸發展的裂紋可能很難察覺。突然斷裂只是整個過程的最後階段。",
+    "caption": "The gradual growth may be hard to see. The sudden break is only the\nfinal stage.",
+    "speed": 0.86
+  },
+  {
+    "id": "fracture",
+    "scene": 2,
+    "start": 58.946,
+    "end": 64.45,
+    "english": "Once the crack reaches a critical condition, the remaining section fractures rapidly.",
+    "chinese": "當裂紋達到臨界狀態，剩餘截面便快速斷裂。",
+    "caption": "Once the crack reaches a critical condition, the remaining section\nfractures rapidly.",
+    "speed": 0.86
+  },
+  {
+    "id": "sn_intro",
+    "scene": 3,
+    "start": 65.55,
+    "end": 69.1553,
+    "english": "An S–N curve connects stress amplitude to fatigue life.",
+    "chinese": "S–N 曲線把應力振幅與疲勞壽命連結起來。",
+    "caption": "An S–N curve connects stress amplitude to fatigue life.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "amplitude",
+    "scene": 3,
+    "start": 69.4285,
+    "end": 73.1192,
+    "english": "S is half the difference between maximum and minimum stress.",
+    "chinese": "S 是最大應力與最小應力之差的一半。",
+    "caption": "S is half the difference between maximum and minimum stress.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "axis_s",
+    "scene": 3,
+    "start": 73.3923,
+    "end": 77.1043,
+    "english": "The vertical axis is stress amplitude in megapascals.",
+    "chinese": "縱軸是應力振幅，單位為百萬帕斯卡，也就是 MPa。",
+    "caption": "The vertical axis is stress amplitude in megapascals.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "axis_n",
+    "scene": 3,
+    "start": 77.3775,
+    "end": 82.1988,
+    "english": "The horizontal axis shows cycles to failure on a logarithmic scale.",
+    "chinese": "橫軸用對數刻度表示試件破壞前所承受的循環次數。",
+    "caption": "The horizontal axis shows cycles to failure on a logarithmic scale.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "sn_read",
+    "scene": 3,
+    "start": 82.472,
+    "end": 86.5253,
+    "english": "Choose a stress, move across to the curve, then down to read life.",
+    "chinese": "選定應力振幅，水平移到曲線，再垂直向下讀出疲勞壽命。",
+    "caption": "Choose a stress, move across to the curve, then down to read life.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "lower",
+    "scene": 3,
+    "start": 86.7985,
+    "end": 92.0038,
+    "english": "For the same material and conditions, lower amplitude usually means longer life.",
+    "chinese": "對相同材料和試驗條件而言，較低的應力振幅通常代表較長的壽命。",
+    "caption": "For the same material and conditions, lower amplitude usually means\nlonger life.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "scatter",
+    "scene": 3,
+    "start": 92.277,
+    "end": 93.8557,
+    "english": "Actual results scatter.",
+    "chinese": "實際試驗結果具有分散性。",
+    "caption": "Actual results scatter.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "steel",
+    "scene": 3,
+    "start": 94.1288,
+    "end": 98.1822,
+    "english": "Some steels show a fatigue limit under specific test conditions.",
+    "chinese": "某些鋼材在特定試驗條件下會呈現疲勞限。",
+    "caption": "Some steels show a fatigue limit under specific test conditions.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "aluminum",
+    "scene": 3,
+    "start": 98.4553,
+    "end": 104.45,
+    "english": "Aluminum alloys generally do not. These limits are not universal safety guarantees.",
+    "chinese": "鋁合金通常沒有明確的疲勞限。這些試驗中的極限，也不是適用於所有情況的安全保證。",
+    "caption": "Aluminum alloys generally do not. These limits are not universal\nsafety guarantees.",
+    "speed": 0.882141090909091
+  },
+  {
+    "id": "toughness",
+    "scene": 4,
+    "start": 105.55,
+    "end": 109.326,
+    "english": "Fracture toughness measures resistance to fracture with a crack.",
+    "chinese": "斷裂韌性衡量材料已經存在裂紋時，抵抗斷裂的能力。",
+    "caption": "Fracture toughness measures resistance to fracture with a crack.",
+    "speed": 0.9014478048780489
+  },
+  {
+    "id": "ki",
+    "scene": 4,
+    "start": 109.5644,
+    "end": 114.3858,
+    "english": "K I describes crack tip loading: the Mode one stress intensity factor.",
+    "chinese": "K I 描述裂紋尖端的載重狀態，是第一型，也就是張開型的應力強度因子。",
+    "caption": "K I describes crack tip loading: the Mode one stress intensity\nfactor.",
+    "speed": 0.9014478048780489
+  },
+  {
+    "id": "symbols",
+    "scene": 4,
+    "start": 114.6242,
+    "end": 119.7016,
+    "english": "Y describes geometry; sigma is tensile stress; a measures edge to tip.",
+    "chinese": "Y 反映幾何形狀；sigma 是施加的拉伸應力；a 是從試件邊緣到裂紋尖端的長度。",
+    "caption": "Y describes geometry; sigma is tensile stress; a measures edge to\ntip.",
+    "speed": 0.9014478048780489
+  },
+  {
+    "id": "compare",
+    "scene": 4,
+    "start": 119.94,
+    "end": 123.46,
+    "english": "Raising stress or lengthening the crack increases K I.",
+    "chinese": "提高應力，或使裂紋增長，都會增加 K I。",
+    "caption": "Raising stress or lengthening the crack increases K I.",
+    "speed": 0.9014478048780489
+  },
+  {
+    "id": "kic",
+    "scene": 4,
+    "start": 123.6984,
+    "end": 128.6264,
+    "english": "K I c is material plane strain fracture toughness, not yield strength.",
+    "chinese": "K I c 是材料的平面應變斷裂韌性，並不是降伏強度。",
+    "caption": "K I c is material plane strain fracture toughness, not yield\nstrength.",
+    "speed": 0.9014478048780489
+  },
+  {
+    "id": "critical",
+    "scene": 4,
+    "start": 128.8649,
+    "end": 136.7156,
+    "english": "Under linear elastic, valid plane strain conditions, peak K I reaching K I c can trigger rapid fracture.",
+    "chinese": "在線彈性且符合有效平面應變條件下，最大 K I 達到 K I c 時，可能觸發快速斷裂。",
+    "caption": "Under linear elastic, valid plane strain conditions, peak K I\nreaching K I c can trigger rapid fracture.",
+    "speed": 0.9014478048780489
+  },
+  {
+    "id": "subcritical",
+    "scene": 4,
+    "start": 136.954,
+    "end": 139.45,
+    "english": "Fatigue cracks can grow below this limit.",
+    "chinese": "疲勞裂紋在低於這個臨界值時，也能逐漸成長。",
+    "caption": "Fatigue cracks can grow below this limit.",
+    "speed": 0.9014478048780489
+  },
+  {
+    "id": "recap1",
+    "scene": 5,
+    "start": 140.55,
+    "end": 143.3873,
+    "english": "Repeated loading can cause fatigue damage.",
+    "chinese": "反覆載重可能造成疲勞損傷。",
+    "caption": "Repeated loading can cause fatigue damage.",
+    "speed": 0.86
+  },
+  {
+    "id": "recap2",
+    "scene": 5,
+    "start": 145.4518,
+    "end": 149.0784,
+    "english": "S–N curves relate stress amplitude to fatigue life.",
+    "chinese": "S–N 曲線描述應力振幅與疲勞壽命的關係。",
+    "caption": "S–N curves relate stress amplitude to fatigue life.",
+    "speed": 0.86
+  },
+  {
+    "id": "recap3",
+    "scene": 5,
+    "start": 151.1429,
+    "end": 155.4522,
+    "english": "Fracture toughness helps assess when an existing crack becomes critical.",
+    "chinese": "斷裂韌性有助於評估既有裂紋何時達到臨界狀態。",
+    "caption": "Fracture toughness helps assess when an existing crack becomes\ncritical.",
+    "speed": 0.86
+  },
+  {
+    "id": "engineering",
+    "scene": 5,
+    "start": 157.5167,
+    "end": 164.45,
+    "english": "Reduce stress concentrations, improve surface condition, and inspect for cracks to reduce fatigue risk.",
+    "chinese": "降低應力集中、改善表面狀況，並檢查裂紋，可以降低疲勞破壞的風險。",
+    "caption": "Reduce stress concentrations, improve surface condition, and inspect\nfor cracks to reduce fatigue risk.",
+    "speed": 0.86
+  },
+  {
+    "id": "credits",
+    "scene": 6,
+    "start": 165.55,
+    "end": 172.718,
+    "english": "These sources support the lesson. Full links, photo credits, and reproducible code accompany this video.",
+    "chinese": "本影片以這些來源為依據，並附上完整連結、照片出處和可重現的程式碼。",
+    "caption": "These sources support the lesson. Full links, photo credits, and\nreproducible code accompany this video.",
+    "speed": 0.86
+  }
+]

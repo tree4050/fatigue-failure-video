@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "duration_seconds": 180.0,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "24/1",
+    "pix_fmt": "yuv420p",
+    "nb_frames": "4320"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 1,
+    "duration": "180.000000"
+  },
+  "full_decode_errors": "",
+  "narration_word_count": 355,
+  "caption_cues": 33,
+  "maximum_caption_lines": 2,
+  "minimum_caption_font_px": 40,
+  "caption_safe_box": [
+    64,
+    934,
+    1856,
+    1052
+  ],
+  "caption_timing_method": "Measured per-phrase neural voice WAV duration, placed on fixed 180-second timeline.",
+  "voice": "Kokoro-82M v1.0 / af_heart / en-us",
+  "voice_speeds": [
+    0.86,
+    0.882141,
+    0.901448
+  ],
+  "music": "None",
+  "source_photo": "Wang Hui-li and Qin Si-feng (2014), Figure 2, PMC4135168",
+  "visual_review": "Scene contact sheet and detailed frames inspected; formula, arrow directions, axis labels and caption bounds checked.",
+  "limitations": [
+    "Schematic crack motion and cycle numbers.",
+    "Illustrative S-N curves, no design data.",
+    "Photo does not map a precise crack origin.",
+    "K indicator is qualitative, not a finite-width stress-intensity solver."
+  ],
+  "versions": {
+    "Pillow": "12.3.0",
+    "numpy": "2.3.5"
+  },
+  "ffmpeg_version": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "file_bytes": 7045675,
+  "sha256": "7c26d12c6a9932fdf044267eb7de3f5bdfdd40de819df0a1f29223f92201d13c"
+}

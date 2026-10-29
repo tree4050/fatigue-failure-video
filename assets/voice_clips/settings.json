@@ -1,0 +1,233 @@
+{
+  "hook": {
+    "text": "Why can a metal part fail even when no single load is large enough to break it?",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "define": {
+    "text": "Fatigue is damage from repeated loading. It can occur when nominal stress stays below yield strength.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "photo": {
+    "text": "This is a real fractured bolt from published research.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "root": {
+    "text": "The paper notes that fatigue commonly occurs at thread roots.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "unmapped": {
+    "text": "The exact origin is not mapped here.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "surfaces": {
+    "text": "Fatigue surfaces may show smoother growth regions and rougher final fracture; appearances vary.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "schematic": {
+    "text": "Now follow one schematic specimen.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "initiation": {
+    "text": "A scratch concentrates stress locally, and a small crack begins.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "tension": {
+    "text": "Repeated tension opens the crack.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "growth": {
+    "text": "As cycle count N increases, crack length a grows, leaving less intact material.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "hidden": {
+    "text": "The gradual growth may be hard to see. The sudden break is only the final stage.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "fracture": {
+    "text": "Once the crack reaches a critical condition, the remaining section fractures rapidly.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "sn_intro": {
+    "text": "An S N curve connects stress amplitude to fatigue life.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "amplitude": {
+    "text": "S is half the difference between maximum and minimum stress.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "axis_s": {
+    "text": "The vertical axis is stress amplitude in megapascals.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "axis_n": {
+    "text": "The horizontal axis shows cycles to failure on a logarithmic scale.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "sn_read": {
+    "text": "Choose a stress, move across to the curve, then down to read life.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "lower": {
+    "text": "For the same material and conditions, lower amplitude usually means longer life.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "scatter": {
+    "text": "Actual results scatter.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "steel": {
+    "text": "Some steels show a fatigue limit under specific test conditions.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "aluminum": {
+    "text": "Aluminum alloys generally do not. These limits are not universal safety guarantees.",
+    "voice": "af_heart",
+    "speed": 0.882141090909091,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "toughness": {
+    "text": "Fracture toughness measures resistance to fracture with a crack.",
+    "voice": "af_heart",
+    "speed": 0.9014478048780489,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "ki": {
+    "text": "K eye describes crack tip loading: the Mode one stress intensity factor.",
+    "voice": "af_heart",
+    "speed": 0.9014478048780489,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "symbols": {
+    "text": "Y describes geometry; sigma is tensile stress; a measures edge to tip.",
+    "voice": "af_heart",
+    "speed": 0.9014478048780489,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "compare": {
+    "text": "Raising stress or lengthening the crack increases K eye.",
+    "voice": "af_heart",
+    "speed": 0.9014478048780489,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "kic": {
+    "text": "K eye see is material plane strain fracture toughness, not yield strength.",
+    "voice": "af_heart",
+    "speed": 0.9014478048780489,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "critical": {
+    "text": "Under linear elastic, valid plane strain conditions, peak K eye reaching K eye see can trigger rapid fracture.",
+    "voice": "af_heart",
+    "speed": 0.9014478048780489,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "subcritical": {
+    "text": "Fatigue cracks can grow below this limit.",
+    "voice": "af_heart",
+    "speed": 0.9014478048780489,
+    "sentence_pause": 0.25,
+    "clause_pause": 0.1
+  },
+  "recap1": {
+    "text": "Repeated loading can cause fatigue damage.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "recap2": {
+    "text": "S N curves relate stress amplitude to fatigue life.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "recap3": {
+    "text": "Fracture toughness helps assess when an existing crack becomes critical.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "engineering": {
+    "text": "Reduce stress concentrations, improve surface condition, and inspect for cracks to reduce fatigue risk.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  },
+  "credits": {
+    "text": "These sources support the lesson. Full links, photo credits, and reproducible code accompany this video.",
+    "voice": "af_heart",
+    "speed": 0.86,
+    "sentence_pause": 0.3,
+    "clause_pause": 0.12
+  }
+}

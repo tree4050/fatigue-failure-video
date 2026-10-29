@@ -1,0 +1,146 @@
+1
+00:00:00,550 --> 00:00:05,691
+Why can a metal part fail even when no single load is large enough
+to break it?
+
+2
+00:00:07,367 --> 00:00:14,450
+Fatigue is damage from repeated loading. It can occur when nominal
+stress stays below yield strength.
+
+3
+00:00:15,550 --> 00:00:18,814
+This is a real fractured bolt from published research.
+
+4
+00:00:19,731 --> 00:00:23,422
+The paper notes that fatigue commonly occurs at thread roots.
+
+5
+00:00:24,338 --> 00:00:26,834
+The exact origin is not mapped here.
+
+6
+00:00:27,751 --> 00:00:34,450
+Fatigue surfaces may show smoother growth regions and rougher final
+fracture; appearances vary.
+
+7
+00:00:35,550 --> 00:00:37,747
+Now follow one schematic specimen.
+
+8
+00:00:38,565 --> 00:00:42,533
+A scratch concentrates stress locally, and a small crack begins.
+
+9
+00:00:43,351 --> 00:00:45,612
+Repeated tension opens the crack.
+
+10
+00:00:46,430 --> 00:00:51,998
+As cycle count N increases, crack length a grows, leaving less
+intact material.
+
+11
+00:00:52,816 --> 00:00:58,128
+The gradual growth may be hard to see. The sudden break is only the
+final stage.
+
+12
+00:00:58,946 --> 00:01:04,450
+Once the crack reaches a critical condition, the remaining section
+fractures rapidly.
+
+13
+00:01:05,550 --> 00:01:09,155
+An S–N curve connects stress amplitude to fatigue life.
+
+14
+00:01:09,428 --> 00:01:13,119
+S is half the difference between maximum and minimum stress.
+
+15
+00:01:13,392 --> 00:01:17,104
+The vertical axis is stress amplitude in megapascals.
+
+16
+00:01:17,378 --> 00:01:22,199
+The horizontal axis shows cycles to failure on a logarithmic scale.
+
+17
+00:01:22,472 --> 00:01:26,525
+Choose a stress, move across to the curve, then down to read life.
+
+18
+00:01:26,798 --> 00:01:32,004
+For the same material and conditions, lower amplitude usually means
+longer life.
+
+19
+00:01:32,277 --> 00:01:33,856
+Actual results scatter.
+
+20
+00:01:34,129 --> 00:01:38,182
+Some steels show a fatigue limit under specific test conditions.
+
+21
+00:01:38,455 --> 00:01:44,450
+Aluminum alloys generally do not. These limits are not universal
+safety guarantees.
+
+22
+00:01:45,550 --> 00:01:49,326
+Fracture toughness measures resistance to fracture with a crack.
+
+23
+00:01:49,564 --> 00:01:54,386
+K I describes crack tip loading: the Mode one stress intensity
+factor.
+
+24
+00:01:54,624 --> 00:01:59,702
+Y describes geometry; sigma is tensile stress; a measures edge to
+tip.
+
+25
+00:01:59,940 --> 00:02:03,460
+Raising stress or lengthening the crack increases K I.
+
+26
+00:02:03,698 --> 00:02:08,626
+K I c is material plane strain fracture toughness, not yield
+strength.
+
+27
+00:02:08,865 --> 00:02:16,716
+Under linear elastic, valid plane strain conditions, peak K I
+reaching K I c can trigger rapid fracture.
+
+28
+00:02:16,954 --> 00:02:19,450
+Fatigue cracks can grow below this limit.
+
+29
+00:02:20,550 --> 00:02:23,387
+Repeated loading can cause fatigue damage.
+
+30
+00:02:25,452 --> 00:02:29,078
+S–N curves relate stress amplitude to fatigue life.
+
+31
+00:02:31,143 --> 00:02:35,452
+Fracture toughness helps assess when an existing crack becomes
+critical.
+
+32
+00:02:37,517 --> 00:02:44,450
+Reduce stress concentrations, improve surface condition, and inspect
+for cracks to reduce fatigue risk.
+
+33
+00:02:45,550 --> 00:02:52,718
+These sources support the lesson. Full links, photo credits, and
+reproducible code accompany this video.
